@@ -1,0 +1,40 @@
+#parentdiv{
+    width: 97vw;
+    height: 98vh;
+   border: 2px solid;
+   position: relative;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   
+
+}
+#mytext{
+   width: auto;
+   height: 60px;
+
+   border: 3px solid;
+   font-size: 25px;
+  
+  
+   background-color: rgb(214, 48, 56);
+
+}
+
+.mybtn{
+   font-weight: bold;
+   font-size: 122;
+   width: 100px;
+   height: 75px; 
+   font-size: 30px;
+   background-color:chartreuse;
+   
+   
+}
+/*
+.mybtn{
+   font-size: 1000;
+}*/
+#subcontainer{
+   border: rgb(5, 207, 243) 4px solid;
+}
